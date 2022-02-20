@@ -32,7 +32,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 13 | As Violadas | Tamar, Diná |
 | 14 | As Hospitaleiras | A sunamita, Raabe, Lídia |
 | 15 | As Sagazes | Noemi, Tamar (que exigiu o cumprimento do levirato), Acsa |
-| 16 | As Influenciadoras | Abigail, A que tentou dissuadir Pilatos, Herodias e sua filha, A rainha que se lembrou de Daniel |
+| 16 | As Influenciadoras | Abigail, A que tentou dissuadir Pilatos, A rainha que se lembrou de Daniel, Herodias e sua filha |
 | 17 | As Profetizas | Hulda, Esposa de Isaías, Miriam, Ana (profetiza que viu o menino Jesus) |
 | 18 | As Vítimas de Erros Alheios | Bate-Seba, Esposa de Finéias |
 | 19 | As Que Consagraram Seus Filhos | Ana, Mãe de Sansão |
@@ -44,7 +44,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 25 | As Cruéis | Jezabel, Atalia |
 | 26 | As Esquecidas | Penina, Orfa, Azenate, Zípora, Eliseba, Mical, Filha de faraó |
 | 27 | As Meninas | Serva que se lembrou de Eliseu, Rode |
-| 28 | As Anônimas | Diversas, referidas como 'mulheres' no coletivo |
+| 28 | As Anônimas | Diversas, referidas no coletivo |
 
 
 # Referências
