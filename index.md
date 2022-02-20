@@ -49,7 +49,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 
 # Referências
 
-Algumas fontes de informacao sobre as Mulheres na Bíblia:
+Algumas fontes de informação sobre as Mulheres na Bíblia:
   
 - Women in the Scriptures, website curated by Heather Farrell. ([link](https://www.womeninthescriptures.com/))
 - Jesus' Interactions with Women, Wikipedia entry. ([link](https://en.wikipedia.org/wiki/Jesus%27_interactions_with_women))
