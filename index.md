@@ -12,7 +12,7 @@ Dica: em busca de uma linguagem mais balanceada, sempre que possível, vamos dar
 
 # Agenda
 
-Há muitas formas de se organizar uma agenda de leitura, bem como diversas formas de se agrupar as Mulheres na Bíblia em torno de temas em comum. A lista a seguir é uma entre variadas possibilidades. Cremos que através dela novas conexões podem ser estabelecidas. 
+Há muitas formas de se organizar uma agenda de leitura, bem como diversas formas de se agrupar as Mulheres na Bíblia em torno de temas em comum. A lista a seguir é uma entre variadas possibilidades. A ideia não é reduzir a personalidade delas a uma única caracterstica, apenas reuni-las em torno de um aspecto para facilitar a conversa. Esperamos que através desta lista novas conexões podem ser estabelecidas. 
 
 
 |    | Tema          | Mulheres          |
@@ -41,7 +41,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 22 | As Proeminentes | Ester, Rainha de Sabá |
 | 23 | As Viúvas (Des)Amparadas | Viúva de Sarepta, Viúva do azeite, Viúva de Naim |
 | 24 | As Sensuais | Dalila, Gomer, A que tentou seduzir José |
-| 25 | As Cruéis | Jezabel, Atalia |
+| 25 | As Tirânicas | Jezabel, Atalia |
 | 26 | As Esquecidas | Penina, Orfa, Azenate, Zípora, Eliseba, Mical, Filha de faraó |
 | 27 | As Meninas | Serva que se lembrou de Eliseu, Rode |
 | 28 | As Anônimas | Diversas, referidas no coletivo |
