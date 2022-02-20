@@ -26,19 +26,19 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 7  | As Vítimas | Concumbina que sofreu estupro coletivo, A jovem sacrificada
 | 8  | As Personagens de Parábolas | A da dracma perdida, A do fermento, A que insistiu com o juiz, As dez virgens, A rainha do sul |
 | 9  | As Juízas e Guerreiras | Débora, Jael, A que matou Abimeleque |
-| 10 | As Líderes | Junia, Febe, Priscila, A senhora eleita |
+| 10 | As Destacadas | Junia, Febe, Priscila, A senhora eleita, Tabita |
 | 11 | As Que Mudaram Leis | Macla, Noa, Hogla, Milca e Tirza, Vasti, Filha de Barzilai |
-| 12 | As Dignas de Nota | Tabita, Trifena e Trifosa, Pérside, Eunice, Loide, Julia, Drusila, Damaris, Claudia, Berenice, Cloe, Áfia |
+| 12 | As Dignas de Nota | Trifena e Trifosa, Pérside, Eunice, Loide, Julia, Drusila, Damaris, Claudia, Berenice, Cloe, Áfia |
 | 13 | As Violadas | Tamar, Diná |
 | 14 | As Hospitaleiras | A sunamita, Raabe, Lídia |
 | 15 | As Sagazes | Noemi, Tamar (que exigiu o cumprimento do levirato), Acsa |
-| 16 | As Influenciadoras | Abigail, Esposa de Pilatos, Herodias, A rainha que se lembrou de Daniel |
+| 16 | As Influenciadoras | Abigail, Esposa de Pilatos, Herodias e sua filha, A rainha que se lembrou de Daniel |
 | 17 | As Profezitas | Hulda, Esposa de Isaías, Miriam, Ana (profetiza que viu o menino Jesus) |
 | 18 | As Vítimas de Erros Alheios | Bate-Seba, Esposa de Finéias |
 | 19 | As Que Consagraram Seus Filhos | Ana, Mãe de Sansão |
 | 20 | As Ambíguas | Eva, Safira |
 | 21 | As Trabalhadoras | Rute, Construtoras do muro de Jerusalém |
-| 22 | As Poderosas | Ester, Rainha de Sabá |
+| 22 | As Proeminentes | Ester, Rainha de Sabá |
 | 23 | As Viúvas (Des)Amparadas | Viúva de Sarepta, Viúva do azeite, Viúva de Naim |
 | 24 | As Sensuais | Dalila, Gomer, A mulher que tentou seduzir José |
 | 25 | As Cruéis | Jezabel, Atalia |
