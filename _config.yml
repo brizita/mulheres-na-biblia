@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+
+title: Mulheres na Bíblia
+description: Projeto de Leituras e Diálogos para 2022/2023
+logo: ./assets/logo.png
+
+github:
+  is_project_page: false
