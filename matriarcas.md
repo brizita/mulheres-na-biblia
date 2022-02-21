@@ -6,11 +6,9 @@ permalink: /as-matriarcas/
 
 # As Matriarcas 
 
-### Sara
+## Sara
 
-
-| Fonte | Tópicos|
-|:---|:--------------|
+|  |  |
 | Gênesis 11:27-32 | Sarai era seu antigo nome; casamento com Abrão, passa a ser cunhada de Milca; mudança de Ur para Harã; menção de que era estéril. |
 | Gênesis 12:1-9 | De Harã para Canaã. |
 | Gênesis 12:10-20 | Temporada no Egito para fugir da fome; Abrão a achava bonita; Abrão lhe pede para dizer que são irmãos; os egípcios e faraó a acham bonita; faraó a toma por mulher mas, ao descobrir que era casada, manda Abrão e ela embora.  |
@@ -27,7 +25,7 @@ permalink: /as-matriarcas/
 | Gênesis 24:36, 25:10, 25:12, 49:31; Isaías 51:2; Romanos 4:19, 9:9; I Pedro 3:6 | Outras menções. |
 
 
-### Rebeca
+## Rebeca
 
 ### Raquel
 
