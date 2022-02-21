@@ -9,7 +9,8 @@ permalink: /as-matriarcas/
 ### Sara
 
 
-
+| Fonte | Tópicos|
+|:---|:--------------|
 | Gênesis 11:27-32 | Sarai era seu antigo nome; casamento com Abrão, passa a ser cunhada de Milca; mudança de Ur para Harã; menção de que era estéril. |
 | Gênesis 12:1-9 | De Harã para Canaã. |
 | Gênesis 12:10-20 | Temporada no Egito para fugir da fome; Abrão a achava bonita; Abrão lhe pede para dizer que são irmãos; os egípcios e faraó a acham bonita; faraó a toma por mulher mas, ao descobrir que era casada, manda Abrão e ela embora.  |
