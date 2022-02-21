@@ -6,7 +6,7 @@ permalink: /as-matriarcas/
 
 # As Matriarcas 
 
-## Sara, Rebeca, Raquel, Lea
+Sara, Rebeca, Raquel, Lea
 
 # Leituras
 
