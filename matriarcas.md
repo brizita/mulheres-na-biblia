@@ -23,7 +23,7 @@ permalink: /as-matriarcas/
 | Hebreus 11:11 | Exemplo de fé. |
 | Gênesis 24:36, 25:10, 25:12, 49:31; Isaías 51:2; Romanos 4:19, 9:9; I Pedro 3:6 | Outras menções. |
 
----
+
 
 | **Rebeca**   |    |
 |:---|:---|
@@ -37,7 +37,7 @@ permalink: /as-matriarcas/
 | Gênesis 35:8  | Sua ama Débora morre. |
 | Gênesis 29:12; Romanos 9:10-13 |  Outras menções. |
 
----
+
 
 | **Raquel**   |    |
 |:---|:---|
@@ -51,7 +51,7 @@ permalink: /as-matriarcas/
 | Jeremias 31:15; Mateus 2:18 | Chora por seus filhos (figurativo). |
 | Gênesis 46:19-27; 48:7; I Samuel 10:2;  |  Outras menções. |
 
----
+
 
 | **Leia / Lia**   |    |
 |:---|:---|
