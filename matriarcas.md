@@ -6,7 +6,7 @@ permalink: /as-matriarcas/
 
 # As Matriarcas 
 
-| **Sara**  |     |
+| **Sara(i)**  |     |
 |:---|:---|
 | Gênesis 11:27-32 | Sarai era seu antigo nome; casamento com Abrão, passa a ser cunhada de Milca; mudança de Ur para Harã; menção de que era estéril. |
 | Gênesis 12:1-9 | De Harã para Canaã. |
@@ -23,6 +23,7 @@ permalink: /as-matriarcas/
 | Hebreus 11:11 | Exemplo de fé. |
 | Gênesis 24:36, 25:10, 25:12, 49:31; Isaías 51:2; Romanos 4:19, 9:9; I Pedro 3:6 | Outras menções. |
 
+---
 
 | **Rebeca**   |    |
 |:---|:---|
@@ -33,9 +34,24 @@ permalink: /as-matriarcas/
 | Gênesis 26:34-35   | É amargurada pelas noras. |
 | Gênesis 27 | Ela e Jacó enganam Isaque; orienta Jacó a fugir de Esaú; continua desgostosa por causa das noras e não deseja que Jacó também se case com mulheres hititas. |
 | Gênesis 49:31 | Sepultada no mesmo local que Sara. |
-| Gênesis 29:12, 35:8; Romanos 9:10-13 |  Outras menções. |
+| Gênesis 35:8  | Sua ama Débora morre. |
+| Gênesis 29:12; Romanos 9:10-13 |  Outras menções. |
 
-## Raquel
+---
 
-## Lea
+| **Raquel**   |    |
+|:---|:---|
+| Gênesis 29:1-31 | Pastora de ovelhas; conhece Jacó, ele a beija; é formosa; Jacó a ama e serve a Labão por sete anos para casar com ela; casamento com Jacó; Jacó serve mais sete anos por ela; é estéril.  |
+|Gênesis 30:1-26 | Quer filhos; ofecere sua serva Bila para dar filhos a Jacó; Raquel nomeia os filhos de Bila de Dã e Naftali; negocia mandrágoras com Leia; engravida e gera José. |
+| Gênesis 31 | Concorda que a família volte para Canaã; rouba os ídolos de seu pai; os esconde quando seu pai entra em sua tenda; despede-se dele. |
+| Gênesis 32:22 | Segue viagem. |
+| Gênesis 33:1-11  | Fica no último grupo indo ao encontro de Esaú; inclina-se perante ele. |
+| Gênesis 35:16-26 | Morre no parto de seu segundo filho; chama-o Benoni; é sepultada no caminho de Efrata; Jacó ergue uma coluna sobre sua sepultura. |
+| Rute 4:11 | Os líderes da cidade desejam que Rute seja como ela e Leia, que edificaram a casa de Israel. |
+| Jeremias 31:15; Mateus 2:18 | Chora por seus filhos (figurativo). |
+| Gênesis 46:19-27; 48:7; I Samuel 10:2;  |  Outras menções. |
+
+---
+
+## Leia/Lia
 
