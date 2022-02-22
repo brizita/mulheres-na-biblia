@@ -1,6 +1,6 @@
 # Quem foram elas?
 
-Famosas e desconhecidas, nomeadas e anônimas, no Antigo e no Novo Testamento. A Bíblia está repleta de mulheres: a palavra mulher(es) aparece 929 vezes ([versão JFA 2009](https://www.biblegateway.com/quicksearch/?quicksearch=mulher&version=ARC)). Quantas você conhece? O que elas sofreram? O que elas alcançaram? Em que contexto histórico e social viveram? Como elas transformaram suas condições, suas comunidades, e a história? O que podemos aprender com suas experiências, boas e ruins? Qual foi a vivência delas com sua fé em Deus e como seguidoras de Jesus Cristo? Há muito para descobrir!
+Famosas e desconhecidas, nomeadas e anônimas, no Antigo e no Novo Testamento. A Bíblia está repleta de mulheres: a palavra mulher(es) aparece 929 vezes ([versão JFA 2009](https://www.biblegateway.com/quicksearch/?quicksearch=mulher&version=ARC)). Quantas você conhece? O que elas sofreram? O que elas alcançaram? Em que contexto histórico e social viveram? Como elas transformaram suas condições, suas comunidades, e a história? O que podemos aprender com suas experiências, boas e ruins? Qual foi a vivência delas com sua fé em Deus e como seguidoras de Jesus Cristo? Há muito para descobrir, e os relatos são transformadores!
 
 # Por que esta iniciativa?
 
