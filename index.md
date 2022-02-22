@@ -6,7 +6,7 @@ Famosas e desconhecidas, nomeadas e anônimas, no Antigo e no Novo Testamento. A
 
 - Normalmente lemos a Bíblia sob a ótica masculina. Conhecemos poucas das muitas mulheres mencionadas e a ênfase fica, geralmente, sobre sua posição em relação aos homens. Os papeis de mães, esposas e filhas, embora relevantes e fundamentais, não são os únicos, e conhecer a diversidade é importante. 
 - Precisamos de mais espaço para diálogos construtivos, onde toda/os possam se expressar. Há uma riqueza e pluralidade muito edificante quando várias mentes pensam juntas e compartilham ideias e perspectivas sobre um assunto. 
-- Aprender com as múltiplas narrativas das mulheres na Bíblia fortifica as estruturas da nossa fé e nos dá ferramentas e exemplos necessários para nos conscientizar quanto à existência, à atuação e à vivência das mulheres no contexto cristão.
+- Aprender com as múltiplas narrativas das mulheres na Bíblia fortifica as estruturas da nossa fé e nos dá ferramentas e exemplos necessários para nos conscientizar quanto à existência e à atuação das mulheres no contexto cristão.
 
 Dica: em busca de uma linguagem mais balanceada, sempre que possível, vamos dar preferência a nos referir a elas pelos seus nomes ou pelo que elas protagonizaram, em vez de '(substantivo) do (homem)'.
 
@@ -17,7 +17,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 
 |    | Tema          | Mulheres          |
 |:---|:--------------|:------------------|
-| 1  | [As Matriarcas](./as-matriarcas) | Sara, Rebeca, Raquel, Lea |
+| 1  | [As Matriarcas](./as-matriarcas) | Sara(i), Rebeca, Raquel, Leia |
 | 2  | As Servas das Matriarcas | Hagar, Débora, Bila, Zilpa |
 | 3  | As Primas Gestantes | Maria, Isabel |
 | 4  | As Amigas e Discípulas de Jesus | Maria Madalena, Maria e Marta de Betânia, Salomé, Susana, Joana  |
@@ -58,3 +58,5 @@ Algumas fontes de informação sobre as Mulheres na Bíblia:
 - Podcast SheToo by the Bible Society. ([link](https://www.biblesociety.org.uk/explore-the-bible/shetoo/))
 - Podcast Women in Scripture by the Archdiocese of Birmingham. ([link](https://www.birminghamdiocese.org.uk/women-in-scripture))
 - Exploring Biblical Characters by Shifra Sharfstein. ([link](https://www.chabad.org/multimedia/video_cdo/aid/3653411/jewish/Exploring-Biblical-Characters.htm))
+
+Crédito da ilustração: [unDraw](https://undraw.co/)
