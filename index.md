@@ -6,7 +6,7 @@ Famosas e desconhecidas, nomeadas e anônimas, no Antigo e no Novo Testamento. A
 
 - Normalmente lemos a Bíblia sob a ótica masculina. Conhecemos poucas das muitas mulheres mencionadas e a ênfase fica, geralmente, sobre sua posição em relação aos homens. Os papeis de mães, esposas e filhas, embora relevantes e fundamentais, não são os únicos, e conhecer a diversidade é importante. 
 - Precisamos de mais espaço para diálogos construtivos, onde toda/os possam se expressar. Há uma riqueza e pluralidade muito edificante quando várias mentes pensam juntas e compartilham ideias e perspectivas sobre um assunto. 
-- Aprender com as múltiplas narrativas das mulheres na Bíblia fortifica as estruturas da nossa fé e nos dá ferramentas e exemplos necessários para nos conscientizar quanto à existência e à atuação das mulheres no contexto cristão.
+- Aprender com as múltiplas narrativas das mulheres na Bíblia fortifica as estruturas da nossa fé e nos dá ferramentas, argumentos e exemplos necessários para nos conscientizar quanto à existência e à atuação das mulheres no contexto cristão.
 
 Dica: em busca de uma linguagem mais balanceada, sempre que possível, vamos dar preferência a nos referir a elas pelos seus nomes ou pelo que elas protagonizaram, em vez de '(substantivo) do (homem)'.
 
