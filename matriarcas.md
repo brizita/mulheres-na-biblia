@@ -41,17 +41,24 @@ permalink: /as-matriarcas/
 
 | **Raquel**   |    |
 |:---|:---|
-| Gênesis 29:1-31 | Pastora de ovelhas; conhece Jacó, ele a beija; é formosa; Jacó a ama e serve a Labão por sete anos para casar com ela; casamento com Jacó; Jacó serve mais sete anos por ela; é estéril.  |
+| Gênesis 29:1-31 | Pastora de ovelhas; conhece Jacó, ele a beija; é formosa; Jacó a ama; irmã mais nova de Leia; Jacó serve a Labão por sete anos para casar com ela; casamento com Jacó; Jacó serve mais sete anos por ela; é estéril.  |
 |Gênesis 30:1-26 | Quer filhos; ofecere sua serva Bila para dar filhos a Jacó; Raquel nomeia os filhos de Bila de Dã e Naftali; negocia mandrágoras com Leia; engravida e gera José. |
 | Gênesis 31 | Concorda que a família volte para Canaã; rouba os ídolos de seu pai; os esconde quando seu pai entra em sua tenda; despede-se dele. |
 | Gênesis 32:22 | Segue viagem. |
 | Gênesis 33:1-11  | Fica no último grupo indo ao encontro de Esaú; inclina-se perante ele. |
 | Gênesis 35:16-26 | Morre no parto de seu segundo filho; chama-o Benoni; é sepultada no caminho de Efrata; Jacó ergue uma coluna sobre sua sepultura. |
-| Rute 4:11 | Os líderes da cidade desejam que Rute seja como ela e Leia, que edificaram a casa de Israel. |
+| Rute 4:11 | Desejam que Rute seja como ela e Leia, que edificaram a casa de Israel. |
 | Jeremias 31:15; Mateus 2:18 | Chora por seus filhos (figurativo). |
 | Gênesis 46:19-27; 48:7; I Samuel 10:2;  |  Outras menções. |
 
 ---
 
-## Leia/Lia
-
+| **Leia / Lia**   |    |
+|:---|:---|
+| Gênesis 29:16-35  | Irmã mais velha de Raquel; olhos tenros; é dada em casamento a Jacó; tem uma serva chamada Zilpa; aborrecida; gera e nomeia quatro filhos. |
+| Gênesis 30:9-25   | Dá Zilpa a Jacó; nomeia os dois filhos de Zilpa; negocia mandrágoras em troca de Jacó; gera e nomeia dois filhos; gera e noemia Diná.  |
+| Gênesis 31:1-35   | Concorda que a família volte para Canaã; sua tenda é revistada. |
+| Gênesis 33:1-11  | Fica no penúltimo grupo indo ao encontro de Esaú; inclina-se perante ele. |
+| Gênesis 49:31   |  Está sepultada com Sara e Rebeca.  |
+| Rute 4:11 | Desejam que Rute seja como ela e Leia, que edificaram a casa de Israel. |
+| Gênesis 34:1, 35:22-26, 46:15-18   |  Outras menções. |
