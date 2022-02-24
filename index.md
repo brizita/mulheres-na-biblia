@@ -24,9 +24,9 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 5  | As Insurgentes | Joquebede, Jeoseba, Sifrá e Puá  |
 | 6  | As Defendidas por Jesus | A que seria apedrejada, A samaritana, A do fluxo de sangue, As que ungiram Seus pés, A viúva pobre |
 | 7  | As Vítimas | A que sofreu estupro coletivo, A jovem sacrificada
-| 8  | As Personagens de Parábolas | A da dracma perdida, A do fermento, A que insistiu com o juiz, As dez virgens, A rainha do sul |
+| 8  | As Destacadas | Junia, Febe, Priscila, A senhora eleita, Tabita |  
 | 9  | As Juízas e Guerreiras | Débora, Jael, A que matou Abimeleque |
-| 10 | As Destacadas | Junia, Febe, Priscila, A senhora eleita, Tabita |
+| 10 | As Personagens de Parábolas | A da dracma perdida, A do fermento, A que insistiu com o juiz, As dez virgens, A rainha do sul |
 | 11 | As Que Mudaram Leis e Costumes | Macla, Noa, Hogla, Milca e Tirza, Vasti, A que passou seu nome ao seu marido |
 | 12 | As Dignas de Nota | Trifena e Trifosa, Pérside, Eunice, Loide, Julia, Drusila, Damaris, Claudia, Berenice, Cloe, Áfia |
 | 13 | As Violadas | Tamar, Diná |
