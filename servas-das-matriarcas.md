@@ -4,7 +4,7 @@ title: As Servas das Matriarcas
 permalink: /as-servas-das-matriarcas/
 ---
 
-# As Sevas das Matriarcas 
+# As Servas das Matriarcas 
 
 | **Hagar / Agar**  |     |
 |:---|:---|
@@ -23,7 +23,7 @@ Hagar– 17:20;
 
 | **Bila**  |     |
 |:---|:---|
-| Gênesis 29:29 | È dada como serva a Raquel. |
+| Gênesis 29:29 | É dada como serva a Raquel. |
 | Gênesis 30:1-8 | Raquel a dá por mulher a Jacó; engravida; tem um filho; engravida novamente e tem outro filho. |
 | Gênesis 31:33 | Labão entra em sua tenda para procurar os ídolos. |
 | Gênesis 32:22 | Passa o vau de Jaboque com toda a família. |
@@ -34,7 +34,7 @@ Hagar– 17:20;
 
 | **Zilpa**  |     |
 |:---|:---|
-| Gênesis 29:24 | È dada como serva a Leia. |
+| Gênesis 29:24 | É dada como serva a Leia. |
 | Gênesis 30:9-13 | Lei a dá por mulher a Jacó; engravida; tem um filho; engravida novamente e tem outro filho. |
 | Gênesis 31:33 | Labão entra em sua tenda para procurar os ídolos. |
 | Gênesis 32:22 | Passa o vau de Jaboque com toda a família. |
