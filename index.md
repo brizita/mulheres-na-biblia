@@ -19,7 +19,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 |:---|:--------------|:------------------|
 | 1  | [As Matriarcas](./as-matriarcas) | Sara(i), Rebeca, Raquel, Leia |
 | 2  | [As Servas das Matriarcas](./as-servas-das-matriarcas) | Hagar, Débora, Bila, Zilpa |
-| 3  | As Primas Gestantes | Maria, Isabel |
+| 3  | [As Primas Gestantes](./as-primas-gestantes) | Maria, Isabel |
 | 4  | As Amigas e Discípulas de Jesus | Maria Madalena, Maria e Marta de Betânia, Salomé, Susana, Joana  |
 | 5  | As Insurgentes | Joquebede, Jeoseba, Sifrá e Puá  |
 | 6  | As Defendidas por Jesus | A que seria apedrejada, A samaritana, A do fluxo de sangue, As que ungiram Seus pés, A viúva pobre |
