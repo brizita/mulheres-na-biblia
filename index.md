@@ -42,7 +42,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 23 | As Viúvas (Des)Amparadas | Viúva de Sarepta, Viúva do azeite, Viúva de Naim |
 | 24 | As Sensuais | Dalila, Gomer, A que tentou seduzir José |
 | 25 | As Tirânicas | Jezabel, Atalia |
-| 26 | As Ofuscadas | Penina, Orfa, Azenate, Zípora, Eliseba, Mical, Filha de faraó |
+| 26 | As Ofuscadas | Penina, Orfa, Azenate, Zípora, Eliseba, Mical, Filha de faraó, Esposa de Jó |
 | 27 | As Meninas | Serva que se lembrou de Eliseu, Rode |
 | 28 | As Anônimas | Diversas, referidas no coletivo |
 
