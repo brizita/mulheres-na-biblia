@@ -10,6 +10,18 @@ Famosas e desconhecidas, nomeadas e anônimas, no Antigo e no Novo Testamento. A
 
 Dica: em busca de uma linguagem mais balanceada, sempre que possível, vamos dar preferência a nos referir a elas pelos seus nomes ou pelo que elas protagonizaram, em vez de '(substantivo) do (homem)'.
 
+# Propósitos
+
+- Trazer as mulheres ao foco e valorizar suas experiências
+- Conhecer e rememorar nossas irmãs do passado
+- Identificar seu papel relevante no Evangelho de Jesus Cristo
+- Criar novas perspectivas de interpretação bíblica
+- Coletar argumentos e exemplos
+- Estruturar nossa fé
+- Abrir espaço para nos manifestarmos
+- Perder o receio de nos expressarmos
+- Transformar nossos arredores cristãos
+
 # Agenda
 
 Há muitas formas de se organizar uma agenda de leitura, bem como diversas formas de se agrupar as Mulheres na Bíblia em torno de temas em comum. A lista a seguir é uma entre variadas possibilidades. A ideia **não** é reduzir a personalidade delas a uma única característica, apenas reuni-las em torno de um aspecto para facilitar a conversa. Desejamos que a partir desta lista novas conexões sejam estabelecidas. 
