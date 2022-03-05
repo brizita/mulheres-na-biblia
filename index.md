@@ -34,7 +34,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 3  | [As Primas Gestantes](./as-primas-gestantes) | Maria, Isabel |
 | 4  | [As Amigas e Discípulas de Jesus](./as-amigas-e-discipulas-de-Jesus) | Maria Madalena, Maria e Marta de Betânia, Salomé, Susana, Joana, As que financiaram Jesus, A Outra Maria  |
 | 5  | [As Insurgentes](./as-insurgentes) | Joquebede, Jeoseba, Sifrá e Puá  |
-| 6  | As Defendidas por Jesus | A que seria apedrejada, A samaritana, A do fluxo de sangue, As que ungiram Seus pés, A viúva pobre |
+| 6  | As Compreendidas por Jesus | A que seria apedrejada, A samaritana, A do fluxo de sangue, As que ungiram Seus pés, A viúva pobre |
 | 7  | As Vítimas | A que sofreu estupro coletivo, A jovem sacrificada
 | 8  | As Destacadas | Junia, Febe, Priscila, A senhora eleita, Tabita |  
 | 9  | As Juízas e Guerreiras | Débora, Jael, A que matou Abimeleque |
