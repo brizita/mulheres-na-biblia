@@ -36,7 +36,7 @@ permalink: /as-matriarcas/
 | Gênesis 29:12 | Jacó se identifica como filho dela. |
 | Gênesis 35:8  | Sua ama Débora morre. |
 | Gênesis 49:31 | Está sepultada no mesmo local que Sara. |
-| Romanos 9:10-13 |  Outras menções. |
+| Gênesis 28:1-9, Romanos 9:10-13 |  Outras menções. |
 
 
 
