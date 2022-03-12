@@ -6,7 +6,7 @@ permalink: /as-matriarcas/
 
 # As Matriarcas 
 
-### Sara(i)
+## Sara(i)
 
 **Resumo**
 
@@ -49,7 +49,7 @@ permalink: /as-matriarcas/
 | Gênesis 24:36, 25:10, 25:12, 49:31; Isaías 51:2; Romanos 4:19, 9:9; I Pedro 3:6 | Outras menções. |
 
 
-### Rebeca
+## Rebeca
 
 
 **Resumo**
@@ -93,7 +93,7 @@ permalink: /as-matriarcas/
 | Gênesis 28:1-9, Romanos 9:10-13 |  Outras menções. |
 
 
-### Raquel
+## Raquel
 
 
 **Resumo**
@@ -139,7 +139,7 @@ permalink: /as-matriarcas/
 | Gênesis 46:19-27; 48:7; I Samuel 10:2;  |  Outras menções. |
 
 
-### Leia / Lia
+## Leia / Lia
 
 **Resumo**
 
