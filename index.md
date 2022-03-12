@@ -18,6 +18,7 @@ Dica: em busca de uma linguagem mais balanceada, sempre que possível, vamos dar
 - Criar novas perspectivas de interpretação bíblica
 - Coletar argumentos e exemplos
 - Estruturar nossa fé
+- Adquirir mais autonomia na busca por conhecimento
 - Abrir espaço para nos manifestarmos
 - Perder o receio de nos expressarmos
 - Transformar nossos arredores cristãos
