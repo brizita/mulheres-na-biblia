@@ -59,7 +59,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 17 | As Profetizas | Hulda, Esposa de Isaías, Miriam, Ana (profetiza que viu o menino Jesus) |
 | 18 | As Vítimas de Erros Alheios | Bate-Seba, Esposa de Finéias |
 | 19 | As Que Consagraram Seus Filhos | Ana, Mãe de Sansão |
-| 20 | As Trabalhadoras | Rute, Construtoras do muro de Jerusalém | 
+| 20 | As Trabalhadoras | Rute, Seerá, Construtoras do muro de Jerusalém | 
 | 21 | As Incautas | Eva, Safira |
 | 22 | As Proeminentes | Ester, Rainha de Sabá |
 | 23 | As Viúvas (Des)Amparadas | Viúva de Sarepta, Viúva do azeite, Viúva de Naim |
