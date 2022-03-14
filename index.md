@@ -73,8 +73,10 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 # Referências
 
 Algumas fontes de informação sobre as Mulheres na Bíblia:
-  
+
+- Círculo de Cultura Bíblica, página editada por Leonardo M. Alves. ([link](https://circulodeculturabiblica.org/blog/))
 - Women in the Scriptures, website curated by Heather Farrell. ([link](https://www.womeninthescriptures.com/))
+- Jewish Woman's Archive. ([link](https://jwa.org/))
 - Jesus' Interactions with Women, Wikipedia entry. ([link](https://en.wikipedia.org/wiki/Jesus%27_interactions_with_women))
 - List of Women in the Bible, Wikipedia entry. ([link](https://en.wikipedia.org/wiki/List_of_women_in_the_Bible))
 - The Bible Project. ([link](https://bibleproject.com/))
