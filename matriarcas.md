@@ -16,7 +16,7 @@ permalink: /as-matriarcas/
 - Famílias ricas, tinham escravas e as usaram para gerar descendentes
 - Encabeçaram decisões acerca de seus filhos
 - Milagres da superação da infertilidade
-- Luta para verem cumpridas as promessas De Deus
+- Luta para verem cumpridas as promessas de Deus
 - Todas nomeadas, diferentemente de outras esposas
 - Foco na beleza
 
