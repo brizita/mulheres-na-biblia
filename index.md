@@ -85,3 +85,7 @@ Algumas fontes de informação sobre as Mulheres na Bíblia:
 - Exploring Biblical Characters by Shifra Sharfstein. ([link](https://www.chabad.org/multimedia/video_cdo/aid/3653411/jewish/Exploring-Biblical-Characters.htm))
 
 Crédito da ilustração: [unDraw](https://undraw.co/)
+
+# Copyright 
+
+Este repositório está licenciado com a Licença [Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional](http://creativecommons.org/licenses/by-nc-nd/4.0/).
