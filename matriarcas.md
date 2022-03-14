@@ -6,6 +6,20 @@ permalink: /as-matriarcas/
 
 # As Matriarcas 
 
+**Convergências**
+
+- Matriarcas do povo de Israel
+- Comumente reduzidas a “mulheres dos patriarcas do povo de Israel”
+- Todas da mesma família, múltiplos parentescos
+- Foram participantes das promessas de Deus
+- Pressão para gerar descendentes
+- Famílias ricas, tinham escravas e as usaram para gerar descendentes
+- Encabeçaram decisões acerca de seus filhos
+- Milagres da superação da infertilidade
+- Luta para verem cumpridas as promessas De Deus
+- Todas nomeadas, diferentemente de outras esposas
+- Foco na beleza
+
 ## Sara(i)
 
 **Resumo**
