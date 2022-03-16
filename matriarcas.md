@@ -20,7 +20,7 @@ permalink: /as-matriarcas/
 - Todas nomeadas, diferentemente de outras esposas
 - Foco na beleza
 
-## [Sara(i)](./sara)
+## [Sara(i)](../sara)
 
 **Resumo**
 
@@ -46,7 +46,7 @@ permalink: /as-matriarcas/
 - Usada como exemplo de aliança e de fé no Novo Testamento
 
 
-## [Rebeca](./rebeca)
+## [Rebeca](../rebeca)
 
 **Resumo**
 
@@ -76,7 +76,7 @@ permalink: /as-matriarcas/
 - Foi sepultada no mesmo local que Sara, também junto com Leia, Isaque e Abraão
 
 
-## [Raquel](./raquel)
+## [Raquel](../raquel)
 
 
 **Resumo**
@@ -111,7 +111,7 @@ permalink: /as-matriarcas/
 
 
 
-## [Leia / Lia](./leia)
+## [Leia / Lia](../leia)
 
 **Resumo**
 
