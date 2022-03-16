@@ -40,7 +40,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 
 |    | Tema          | Mulheres          |
 |:---|:--------------|:------------------|
-| 1  | [As Matriarcas](./as-matriarcas) | Sara(i), Rebeca, Raquel, Leia |
+| 1  | [As Matriarcas](./as-matriarcas) | [Sara(i)](./sara), [Rebeca](./rebeca), [Raquel](./raquel), [Leia](./leia) |
 | 2  | [As Servas das Matriarcas](./as-servas-das-matriarcas) | Hagar, Débora, Bila, Zilpa |
 | 3  | [As Primas Gestantes](./as-primas-gestantes) | Maria, Isabel |
 | 4  | [As Amigas e Discípulas de Jesus](./as-amigas-e-discipulas-de-Jesus) | Maria Madalena, Maria e Marta de Betânia, Salomé, Susana, Joana, As que financiaram Jesus, A Outra Maria  |
