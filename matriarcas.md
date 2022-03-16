@@ -20,7 +20,7 @@ permalink: /as-matriarcas/
 - Todas nomeadas, diferentemente de outras esposas
 - Foco na beleza
 
-## Baú de Memórias
+## Memórias
 
 ### [Sara(i)](../sara)
 
