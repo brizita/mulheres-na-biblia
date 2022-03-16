@@ -20,7 +20,7 @@ permalink: /as-matriarcas/
 - Todas nomeadas, diferentemente de outras esposas
 - Foco na beleza
 
-## Sara(i)
+## [Sara(i)](./sara)
 
 **Resumo**
 
@@ -46,8 +46,7 @@ permalink: /as-matriarcas/
 - Usada como exemplo de aliança e de fé no Novo Testamento
 
 
-## Rebeca
-
+## [Rebeca](./rebeca)
 
 **Resumo**
 
@@ -76,21 +75,8 @@ permalink: /as-matriarcas/
 - Tinha uma ama chamada Débora
 - Foi sepultada no mesmo local que Sara, também junto com Leia, Isaque e Abraão
 
-| **Referências**   |    |
-|:---|:---|
-| Gênesis 22:20-24 | Neta de Milca |
-| Gênesis 24 | Vai à fonte encher o cântaro; é bonita; dá água para o servo de Abraão e seus camelos; ganha um pendente de ouro e duas pulseiras; oferece lugar para o servo passar a noite; é consultada consente em ir com o servo para Isaque; suas servas a acompanham; ao vê-lo, pergunta ao servo quem ele é e se cobre com um véu; casa-se com Isaque; vai à tenda que era de Sara.   |
-| Gênesis 25:19-34 | É estéril; engravida de gêmeos; recebe uma promessa de Deus acerca de seus filhos; prefere Jacó. |
-| Gênesis 26:7-11   | Vai para Gerar; Isaque finge que ela é sua irmã, pois a achava bonita; recebe carinho de Isaque; Abimeleque ordena que não lhe toquem.   |
-| Gênesis 26:34-35   | É amargurada pelas noras. |
-| Gênesis 27 | Ela e Jacó enganam Isaque; orienta Jacó a fugir de Esaú; continua desgostosa por causa das noras e não deseja que Jacó também se case com mulheres hititas. |
-| Gênesis 29:9-12 | Jacó se identifica como filho dela. |
-| Gênesis 35:8  | Sua ama Débora morre. |
-| Gênesis 49:31 | Está sepultada no mesmo local que Sara. |
-| Gênesis 28:1-9, Romanos 9:10-13 |  Outras menções. |
 
-
-## Raquel
+## [Raquel](./raquel)
 
 
 **Resumo**
@@ -123,20 +109,9 @@ permalink: /as-matriarcas/
 - Os líderes da cidade desejam que Rute seja como ela e Leia, que edificaram a casa de Israel
 - Metáfora dela chorando por seus filhos em uma profecia em Jeremias
 
-| **Referências**   |    |
-|:---|:---|
-| Gênesis 29:1-31 | Pastora de ovelhas; conhece Jacó, ele a beija; é formosa; Jacó a ama; irmã mais nova de Leia; Jacó serve a Labão por sete anos para casar com ela; casamento com Jacó; Jacó serve mais sete anos por ela; é estéril.  |
-|Gênesis 30:1-26 | Quer filhos; ofecere sua serva Bila para dar filhos a Jacó; Raquel nomeia os filhos de Bila; negocia mandrágoras com Leia; engravida e gera José. |
-| Gênesis 31 | Concorda que a família volte para Canaã; rouba os ídolos de seu pai; os esconde quando seu pai entra em sua tenda; despede-se dele. |
-| Gênesis 32:22 | Segue viagem. |
-| Gênesis 33:1-11  | Fica no último grupo indo ao encontro de Esaú; inclina-se perante ele. |
-| Gênesis 35:16-26 | Morre no parto de seu segundo filho; chama-o Benoni; é sepultada no caminho de Efrata; Jacó ergue uma coluna sobre sua sepultura. |
-| Rute 4:11 | Desejam que Rute seja como ela e Leia, que edificaram a casa de Israel. |
-| Jeremias 31:15; Mateus 2:18 | Chora por seus filhos (figurativo). |
-| Gênesis 46:19-27; 48:7; I Samuel 10:2;  |  Outras menções. |
 
 
-## Leia / Lia
+## [Leia / Lia](./leia)
 
 **Resumo**
 
@@ -158,15 +133,3 @@ permalink: /as-matriarcas/
 - Se curvou perante Esaú
 - Foi sepultada com Sara e Rebeca
 - Os líderes da cidade desejam que Rute seja como ela e Raquel, que edificaram a casa de Israel
-
-
-| **Referências**   |    |
-|:---|:---|
-| Gênesis 29:16-35  | Irmã mais velha de Raquel; olhos tenros; é dada em casamento a Jacó; tem uma serva chamada Zilpa; aborrecida; gera e nomeia quatro filhos. |
-| Gênesis 30:9-26   | Dá Zilpa a Jacó; nomeia os dois filhos de Zilpa; negocia mandrágoras em troca de Jacó; gera e nomeia dois filhos; gera e nomeia Diná.  |
-| Gênesis 31:1-35   | Concorda que a família volte para Canaã; sua tenda é revistada. |
-| Gênesis 32:22 | Segue viagem. |
-| Gênesis 33:1-11  | Fica no penúltimo grupo indo ao encontro de Esaú; inclina-se perante ele. |
-| Gênesis 49:31   |  Está sepultada com Sara e Rebeca.  |
-| Rute 4:11 | Desejam que Rute seja como ela e Raquel, que edificaram a casa de Israel. |
-| Gênesis 34:1, 35:22-26, 46:15-18   |  Outras menções. |
