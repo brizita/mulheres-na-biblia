@@ -4,6 +4,8 @@ title: Sara
 permalink: /sara/
 ---
 
+# Sara(i)
+
 |    |    |
 |:---|:---|
 | Gênesis 11:27-32 | Sarai era seu antigo nome; casamento com Abrão, passa a ser cunhada de Milca; mudança de Ur para Harã; menção de que era estéril. |
