@@ -6,7 +6,7 @@ permalink: /as-matriarcas/
 
 # As Matriarcas 
 
-**Convergências**
+## Convergências
 
 - Matriarcas do povo de Israel
 - Comumente reduzidas a “mulheres dos patriarcas do povo de Israel”
@@ -20,9 +20,9 @@ permalink: /as-matriarcas/
 - Todas nomeadas, diferentemente de outras esposas
 - Foco na beleza
 
-## [Sara(i)](../sara)
+## Baú de Memórias
 
-**Resumo**
+## [Sara(i)](../sara)
 
 - Estéril, depois gerou um filho na velhice, chamado Isaque
 - Era cunhada de Milca
@@ -47,8 +47,6 @@ permalink: /as-matriarcas/
 
 
 ## [Rebeca](../rebeca)
-
-**Resumo**
 
 - Era neta de Milca, filha de Betuel e irmã de Labão e vivia em Padã-Arã (?)
 - Foi à fonte encher seu cântaro de água, deu de beber ao servo e aos camelos
@@ -77,9 +75,6 @@ permalink: /as-matriarcas/
 
 
 ## [Raquel](../raquel)
-
-
-**Resumo**
 
 - Vivia na Mesopotâmia (Padã-Arã), irmã mais nova de Leia e filha de  Labão
 - Pastora de ovelhas
@@ -110,10 +105,7 @@ permalink: /as-matriarcas/
 - Metáfora dela chorando por seus filhos em uma profecia em Jeremias
 
 
-
 ## [Leia / Lia](../leia)
-
-**Resumo**
 
 - Vivia na Mesopotâmia (Padã-Arã (?)), irmã mais velha de Raquel e filha de  Labão
 - Tinha olhos tenros
