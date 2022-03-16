@@ -22,7 +22,7 @@ permalink: /as-matriarcas/
 
 ## Baú de Memórias
 
-## [Sara(i)](../sara)
+### [Sara(i)](../sara)
 
 - Estéril, depois gerou um filho na velhice, chamado Isaque
 - Era cunhada de Milca
@@ -46,7 +46,7 @@ permalink: /as-matriarcas/
 - Usada como exemplo de aliança e de fé no Novo Testamento
 
 
-## [Rebeca](../rebeca)
+### [Rebeca](../rebeca)
 
 - Era neta de Milca, filha de Betuel e irmã de Labão e vivia em Padã-Arã (?)
 - Foi à fonte encher seu cântaro de água, deu de beber ao servo e aos camelos
@@ -74,7 +74,7 @@ permalink: /as-matriarcas/
 - Foi sepultada no mesmo local que Sara, também junto com Leia, Isaque e Abraão
 
 
-## [Raquel](../raquel)
+### [Raquel](../raquel)
 
 - Vivia na Mesopotâmia (Padã-Arã), irmã mais nova de Leia e filha de  Labão
 - Pastora de ovelhas
@@ -105,7 +105,7 @@ permalink: /as-matriarcas/
 - Metáfora dela chorando por seus filhos em uma profecia em Jeremias
 
 
-## [Leia / Lia](../leia)
+### [Leia / Lia](../leia)
 
 - Vivia na Mesopotâmia (Padã-Arã (?)), irmã mais velha de Raquel e filha de  Labão
 - Tinha olhos tenros
