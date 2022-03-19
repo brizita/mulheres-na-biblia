@@ -57,7 +57,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 15 | As Sagazes | Noemi, Tamar (que exigiu o cumprimento do levirato), Acsa |
 | 16 | As Influenciadoras | Abigail, A que tentou dissuadir Pilatos, A rainha que se lembrou de Daniel, Herodias e sua filha |
 | 17 | As Profetizas | Hulda, Esposa de Isaías, Miriam, Ana (profetiza que viu o menino Jesus), Filhas de Filipe |
-| 18 | As Vítimas de Erros Alheios | Bate-Seba, Esposa de Finéias |
+| 18 | As Vítimas de Erros Alheios | Bate-Seba, Esposa de Finéias, Esposa de Sansão |
 | 19 | As Que Consagraram Seus Filhos | Ana, Mãe de Sansão |
 | 20 | As Trabalhadoras | Rute, Seerá, Construtoras do muro de Jerusalém | 
 | 21 | As Incautas | Eva, Safira |
