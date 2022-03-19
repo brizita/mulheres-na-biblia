@@ -61,7 +61,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 19 | As Que Consagraram Seus Filhos | Ana, Mãe de Sansão |
 | 20 | As Trabalhadoras | Rute, Seerá, Construtoras do muro de Jerusalém | 
 | 21 | As Incautas | Eva, Safira |
-| 22 | As Proeminentes | Ester, Rainha de Sabá |
+| 22 | As Proeminentes | Ester, Rainha de Sabá, Rainha de Candace |
 | 23 | As Viúvas (Des)Amparadas | Viúva de Sarepta, Viúva do azeite, Viúva de Naim |
 | 24 | As Sensuais | Dalila, Gomer, A que tentou seduzir José |
 | 25 | As Tirânicas | Jezabel, Atalia |
