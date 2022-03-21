@@ -20,6 +20,19 @@ permalink: /as-matriarcas/
 - Todas nomeadas, diferentemente de outras esposas
 - Foco na beleza
 
+## Reflexões
+
+- A sociedade patriarcal fomenta desavença e competição entre mulheres?
+- Pedro usa Sara como exemplo de sujeição da mulher ao marido. Ela foi sujeita em tudo?
+- Divergência da posição da mulher no judaísmo e na transição para o cristianismo
+- Por que as mulheres da Bíblia são retradas como são? A forma como as mulheres eram tratadas tem um motivo ligado ao contexto social e à posição da época.
+
+
+## As Mencionadas
+
+Agar, ama e servas de Rebeca, Débora, Zilpa, Bila; Milca (cunhada de Sara e avó de Rebeca); servas que faraó e Abimeleque deram a Abraao; esposa de Abimeleque e demais mulheres de sua casa; Reumá (concumbina de Naor); mulheres que buscavam água ao cair da tarde; mãe de Rebeca; Quetura (segunda mulher de Abraão); Judite, Basemate, Maalate (esposas de Esaú); mulheres cananeias e hititas; Diná (filha de Leia); parteira de Raquel; Sera (neta de Leia); Azenate e Potífera.
+
+
 ## Memórias
 
 ### [Sara(i)](../sara)
