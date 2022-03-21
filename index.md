@@ -33,6 +33,15 @@ Dica: em busca de uma linguagem mais balanceada, sempre que possível, vamos dar
 - Questionamentos não são pecados
 - Há diversas formas de ler a Bíblia e várias traduções, algumas mais fáceis de ler
 
+# Pautas
+
+Nos encontros, teremos conversas abertas sobre os tópicos a seguir, bem como espaço para diálogos espontâneos:
+1. Convergências: o que essas mulheres têm em comum?
+2. Baú de Memórias: o que elas fizeram e como podemos nos referir a elas?
+3. Reflexões: quais lições elas deixaram para a atualidade e quais temas de diálogo elas inspiram?
+4. As Mencionadas: quais mulheres além delas aparecem nas leituras?
+
+
 # Agenda
 
 Há muitas formas de se organizar uma agenda de leitura, bem como diversas formas de se agrupar as Mulheres na Bíblia em torno de temas em comum. A lista a seguir é uma entre variadas possibilidades. A ideia **não** é reduzir a personalidade delas a uma única característica, apenas reuni-las em torno de um aspecto para facilitar a conversa. Desejamos que a partir desta lista novas conexões sejam estabelecidas. 
