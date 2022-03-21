@@ -41,7 +41,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 |    | Tema          | Mulheres          |
 |:---|:--------------|:------------------|
 | 1  | [As Matriarcas](./as-matriarcas) | [Sara(i)](./sara), [Rebeca](./rebeca), [Raquel](./raquel), [Leia](./leia) |
-| 2  | [As Servas das Matriarcas](./as-servas-das-matriarcas) | Hagar, Débora, Bila, Zilpa |
+| 2  | [As Servas das Matriarcas](./as-servas-das-matriarcas) | [Agar](./agar), [Débora](./debora), [Bila](./bila), [Zilpa](./zilpa) |
 | 3  | [As Primas Gestantes](./as-primas-gestantes) | Maria, Isabel |
 | 4  | [As Amigas e Discípulas de Jesus](./as-amigas-e-discipulas-de-Jesus) | Maria Madalena, Maria e Marta de Betânia, Salomé, Susana, Joana, As que financiaram Jesus, A Outra Maria  |
 | 5  | [As Insurgentes](./as-insurgentes) | Joquebede, Jeoseba, Sifrá e Puá  |
@@ -51,7 +51,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 9  | As Juízas e Guerreiras | Débora, Jael, A que matou Abimeleque |
 | 10 | As Personagens de Parábolas | A da dracma perdida, A do fermento, A que insistiu com o juiz, As dez virgens, A rainha do sul |
 | 11 | As Que Mudaram Leis e Costumes | Macla, Noa, Hogla, Milca e Tirza, Vasti, A que passou seu nome ao seu marido |
-| 12 | As Dignas de Nota | Trifena e Trifosa, Pérside, Eunice, Loide, Julia, Drusila, Damaris, Claudia, Berenice, Cloe, Áfia |
+| 12 | As Dignas de Nota | Trifena e Trifosa, Pérside, Eunice, Loide, Julia, Drusila, Damaris, Claudia, Berenice, Cloe, Áfia, Euvódia, Síntique |
 | 13 | As Violadas | Tamar, Diná |
 | 14 | As Hospitaleiras | A sunamita, Raabe, Lídia |
 | 15 | As Sagazes | Noemi, Tamar (que exigiu o cumprimento do levirato), Acsa |
