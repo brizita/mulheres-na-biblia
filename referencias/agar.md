@@ -12,3 +12,5 @@ permalink: /agar/
 | Gênesis 21:1-24 | Seu filho zomba do filho de Sara; Sara pede que Abraão lhe mande embora; é mandada embora com o filho levando pão e água pelo deserto de Berseba; a água acaba; põe o filho sob uma árvore e vai para longe para não vê-lo morrer; grita e chora; o anjo de Deus fala com ela; Deus lhe mostra água; encontra uma nora da terra do Egito. |
 | Gênesis 25:12 | Sua geração. |
 | Gálatas 4:21-31 | Contraposição com Sara, duas alianças. |
+
+ 
