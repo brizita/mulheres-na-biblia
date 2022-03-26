@@ -53,7 +53,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 2  | [As Servas das Matriarcas](./as-servas-das-matriarcas) | [Agar](./agar), [Débora](./debora), [Bila](./bila), [Zilpa](./zilpa) |
 | 3  | [As Primas Gestantes](./as-primas-gestantes) | [Maria](./maria), [Isabel](./isabel) |
 | 4  | [As Amigas e Discípulas de Jesus](./as-amigas-e-discipulas-de-Jesus) | [Maria Madalena](./maria-madalena), [Marta](./marta) e [Maria](./maria-de-betania) de Betânia, [Salomé](./salome), [Susana](./susana), [Joana](./joana), [As que financiavam Jesus](./mulheres-que-financiavam-Jesus), [A Outra Maria](./outra-maria)  |
-| 5  | [As Insurgentes](./as-insurgentes) | Joquebede, Jeoseba, Sifrá e Puá  |
+| 5  | [As Insurgentes](./as-insurgentes) | [Joquebede](./joquebede), [Jeoseba](./jeosebaa), [Sifrá](./sifra) e [Puá](./pua)  |
 | 6  | As Compreendidas por Jesus | A que seria apedrejada, A samaritana, A do fluxo de sangue, As que ungiram Seus pés, A viúva pobre |
 | 7  | As Vítimas | A que sofreu estupro coletivo, A jovem sacrificada
 | 8  | As Destacadas | Junia, Febe, Priscila, A senhora eleita, Tabita |  
