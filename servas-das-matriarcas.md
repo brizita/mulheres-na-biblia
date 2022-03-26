@@ -8,18 +8,14 @@ permalink: /as-servas-das-matriarcas/
 
 
 ## Convergências
-
 -
 
 ## Reflexões
-
-- 
-
+-
 
 ## As Mencionadas
 
 Sara, Rebeca, Raquel, Leia, Será
-
 
 
 ## Memórias
