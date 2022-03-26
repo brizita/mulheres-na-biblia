@@ -34,7 +34,7 @@ permalink: /as-amigas-e-discipulas-de-Jesus/
 ### [Salomé](../salome)
 
 
-### [As Mulheres que Financiaram Jesus](../mulheres-que-financiaram-Jesus)
+### [As Mulheres que Financiavam Jesus](../mulheres-que-financiavam-Jesus)
 
 
 ### [A Outra Maria](../outra-maria)
