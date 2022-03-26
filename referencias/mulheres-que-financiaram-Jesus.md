@@ -1,10 +1,10 @@
 ---
 layout: default
-title: As Mulheres que Financiaram Jesus
-permalink: /mulheres-que-financiaram-Jesus/
+title: As Mulheres que Financiavam Jesus
+permalink: /mulheres-que-financiavam-Jesus/
 ---
 
-# As Mulheres que Financiaram Jesus
+# As Mulheres que Financiavam Jesus
 
 |    |     |
 |:---|:---|
