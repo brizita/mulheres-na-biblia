@@ -69,7 +69,7 @@ Sara, Rebeca, Raquel, Leia, Será
 ### [Zilpa](../zilpa)
 
 - Foi dada por Labão a Leia para que fosse sua serva após o casamento
-- Foi entregue a Jacó por Raquel para que ela lhes gerasse mais descendentes
+- Foi entregue a Jacó por Leia para que ela lhes gerasse mais descendentes
 - Teve dois filhos
 - Leia nomeou seus filhos Gade, Aser
 - Sua tenda foi revistada por Labão em busca dos ídolos roubados por Raquel
