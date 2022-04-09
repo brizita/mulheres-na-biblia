@@ -27,15 +27,15 @@ Sara, Rebeca, Raquel, Leia, Será
 - Foi dada a Abrão por Sarai para que ela lhes gerasse descendência
 - Engravidou de Abrão
 - Passou a desprezar Sarai
-- Abrão disse a Sarai que poderia fazer o que quisesse com Agar; Sarai passou, então, a afligi-la até que ela fugiu.
+- Abrão disse a Sarai que poderia fazer o que quisesse com Agar; Sarai passou, então, a afligi-la até que ela fugiu
 - Um anjo a encontrou junto a uma fonte de água no deserto; chamou-a de "Agar, serva de Sarai" e perguntou de onde ela vinha e para onde ela iria
 - Ela respondeu que estava fugindo de Sarai, sua senhora
-- O anjo lhe mandou voltar e se humilhar perante Sarai; disse que sua semente seria multiplicada e numerosa; 
+- O anjo lhe mandou voltar e se humilhar perante Sarai; disse que sua semente seria multiplicada e numerosa
 - O anjo lhe anunicou uma profecia: ela havia concebido e teria um filho, e o chamaria de Ismael, porque o Senhor a ouvira em sua aflição; seu filho seria um homem bravo, que sua mão seria contra todos, e a mão de todos, contra ele; e habitaria diante da face de todos os seus irmãos
 - Nomeou o Senhor de "Tu és Deus da vista", dizendo "Não olhei eu também para aquele que me vê?"
-- O poço no local foi nomerado em homenagem a este episódio
+- O poço no local foi nomeado em homenagem a este episódio
 - Teve seu filho e Abrão o chamou de Ismael
-- Sara vu Ismael rindo/zombando de Isaque na festa na ocasião em que foi desmamado e mandou Abraão se livrar de Agar e de seu filho, para que ele não fosse herdeiro com Isaque
+- Sara viu Ismael rindo/zombando de Isaque na festa na ocasião em que foi desmamado e mandou Abraão se livrar de Agar e de seu filho, para que ele não fosse herdeiro com Isaque
 - Abraão lhe deu um pão e um odre de água, durante a madrugada, e a mandou embora com seu filho
 - Ela saiu vagando pelo deserto de Berseba
 - Quando a água acabou, deixou Ismael sob as árvores e se afastou para não vê-lo morrer
@@ -58,7 +58,7 @@ Sara, Rebeca, Raquel, Leia, Será
 - Foi dada por Labão a Raquel para que fosse sua serva após o casamento
 - Foi entregue a Jacó por Raquel para que ela lhes gerasse descendentes
 - Teve dois filhos
-- Rebeca nomeou seus filhos Dã e Naftali
+- Raquel nomeou seus filhos Dã e Naftali
 - Sua tenda foi revistada por Labão em busca dos ídolos roubados por Raquel
 - Migrou com a família para Canaã
 - Ficou no primeiro grupo indo ao encontro de Esaú; inclinou-se perante ele
@@ -68,7 +68,7 @@ Sara, Rebeca, Raquel, Leia, Será
 
 ### [Zilpa](../zilpa)
 
-- Foi dada por Labão a Raquel para que fosse sua serva após o casamento
+- Foi dada por Labão a Leia para que fosse sua serva após o casamento
 - Foi entregue a Jacó por Raquel para que ela lhes gerasse mais descendentes
 - Teve dois filhos
 - Leia nomeou seus filhos Gade, Aser
