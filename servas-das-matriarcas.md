@@ -8,10 +8,22 @@ permalink: /as-servas-das-matriarcas/
 
 
 ## Convergências
--
+- Quase sempre mencionadas com um adendo "serva de" a seu nome
+- Usadas para ter filhos em lugar de suas senhoras
+- 'Dadas' como se fossem objetos
 
 ## Reflexões
--
+- Agar era devota, temente, teve o direito de falar com Deus e ver os anjos, mas a interpretação posterior acabou colocando-a como secundária, subjugada
+- Muçulmanos servem o mesmo Deus, Agar gerou um povo também -- devemos evitar a islamofobia
+- Embora soe chocante para nós Agar, vulnerável, ser mandada embora, isso acabou fazendo parte do cumprimento da promessa
+- Conjunturas geopolíticas influenciam a interpretação
+- Midrash como mais uma fonte de informação sobre essas mulheres
+- Diferente de Agar, Bila e Zilpa foram mais integradas na genealogia do povo de Israel, possivelmente por outros laços familiares
+- Débora figura não como serva mas como ama, deve ter sido quase uma segunda mãe (nanny) bem mais velha que Rebeca
+- Suas senhoras nomearam seus filhos, soa como se tivessem sido parcialmente usurpadas da maternidade
+- Num sistema em que estão em disvantagem, mulheres acabam competindo entre si e oprimindo outras mulheres
+- A leitura da Bíblia tem de levar em conta o contexto histórico
+
 
 ## As Mencionadas
 
@@ -20,7 +32,7 @@ Sara, Rebeca, Raquel, Leia, Será
 
 ## Memórias
 
-### [Agar](../agar)
+### [Agar / Hagar](../agar)
 
 - Era egípcia
 - Era serva de Sarai
