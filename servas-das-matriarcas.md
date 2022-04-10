@@ -16,7 +16,7 @@ permalink: /as-servas-das-matriarcas/
 - Agar era devota, temente, teve o direito de falar com Deus e ver os anjos, mas a interpretação posterior acabou colocando-a como secundária, subjugada
 - Muçulmanos servem o mesmo Deus, Agar gerou um povo também -- devemos evitar a islamofobia
 - Embora soe chocante para nós Agar, vulnerável, ser mandada embora, isso acabou fazendo parte do cumprimento da promessa
-- Conjunturas geopolíticas influenciam a interpretação
+- Conjunturas geopolíticas influenciam a percepção de cristãos, judeus e muçulmanos uns do outros, mesmo tendo as mesmas origens
 - Midrash como mais uma fonte de informação sobre essas mulheres
 - Diferente de Agar, Bila e Zilpa foram mais integradas na genealogia do povo de Israel, possivelmente por outros laços familiares
 - Débora figura não como serva mas como ama, deve ter sido quase uma segunda mãe (nanny) bem mais velha que Rebeca
