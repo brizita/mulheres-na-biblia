@@ -28,7 +28,7 @@ permalink: /as-amigas-e-discipulas-de-Jesus/
 ### [Joana](../joana)
 
 
-### [Suzana](../suzana)
+### [Susana](../susana)
 
 
 ### [Salomé](../salome)
