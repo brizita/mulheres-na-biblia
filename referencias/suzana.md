@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Suzana
-permalink: /suzana/
+title: Susana
+permalink: /susana/
 ---
 
-# Suzana
+# Susana
 
 |    |     |
 |:---|:---|
