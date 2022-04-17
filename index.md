@@ -59,7 +59,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 8  | As Vítimas | [A que sofreu estupro coletivo](./violentada), [A jovem sacrificada](./sacrificada)
 | 9  | [As Insurgentes](./as-insurgentes) | [Joquebede](./joquebede), [Jeoseba](./jeosebaa), [Sifrá](./sifra) e [Puá](./pua)  |
 | 10  | As Juízas e Guerreiras | Débora, Jael, A que feriu Abimeleque |
-| 11 | As Que Mudaram Leis e Costumes | Macla, Noa, Hogla, Milca e Tirza, Vasti, A que passou seu nome ao seu marido |
+| 11 | As Que Mudaram Leis e Costumes | Macla, Noa, Hogla, Milca e Tirza, Vasti, A que passou seu nome ao seu marido, Jemima, Quezia e Quéren-Hapuque |
 | 12 | As Dignas de Nota | Trifena e Trifosa, Pérside, Eunice, Loide, Julia, Drusila, Damaris, Claudia, Berenice, Cloe, Áfia, Euvódia, Síntique |
 | 13 | As Violadas | Tamar, Diná |
 | 14 | As Hospitaleiras | A sunamita, Raabe, Lídia |
