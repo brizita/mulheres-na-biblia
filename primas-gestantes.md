@@ -54,5 +54,18 @@ permalink: /as-primas-gestantes/
 - Esteve reunida no cenáculo com os demais seguidores e seguidoras de Jesus após sua ascensão, perseverando em oração e súplicas
 
 ### [Isabel](../isabel)
-- 
+- Uma das "filhas de Arão
+- Casada com Zacarias
+- Era justa perante Deus e vivia irrepreensivelmente em todos os mandamentos e preceitos do Senhor
+- Era estéril e já avançada em idade
+- Um anjo anunciou a Zacarias que ela teria um filho e lhe poriam o nome de João
+- Engravidou, mas ocultou a gravidez por cinco meses, dizendo que o Senhor atentara para ela e destruíra seu opróbrio entre os homens
+- Recebeu a visita de sua prima Maria
+- Morava em Judá
+- Quando Maria a saudou, o bebê pulou em seu ventre e ela foi cheia do Espírito Santo
+- Chamou Maria de bendita e o fruto do ventre de Maria de bendito
+- Perguntou a Maria por que a "mãe se seu Senhor" havia ido visitá-la
+- Deu à luz um filho chamado João (Batista)
+- Seus vizinhos e parentes se alegraram com ela
+- Quando começaram a chamar o menino de Zacarias, os corrigiu dizendo que se chamaria João
 
