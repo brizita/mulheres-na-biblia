@@ -16,7 +16,9 @@ permalink: /as-primas-gestantes/
 
 ## Memórias
 
-### [Maria](../maria) (a ordem dos eventos abaixo não é, necessariamente, cronológica)
+### [Maria](../maria) 
+(a ordem dos eventos abaixo não é, necessariamente, cronológica)
+
 - Mencionada na profecia de Isaías de que uma virgem daria à luz um filho, Emanuel
 - Mencionada na genealogia de Jesus Cristo reportada por Mateus
 - O anjo Gabriel lhe apareceu, chamando-a de agraciada e bendita entre as mulheres; ela se turbou com essas palavras, sem entender o que significariam; o anjo disse para que ela não temesse e anunciou que ela achara graça diante de Deus e que conceberia Jesus; ela questionou como isso ocorreria visto que ela era virgem; o anjo explicou a obra que Deus faria; ela, então, aceitou sua missão e se pôs à disposição para essa obra
