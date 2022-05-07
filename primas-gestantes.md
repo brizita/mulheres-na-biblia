@@ -13,6 +13,8 @@ permalink: /as-primas-gestantes/
 -
 
 ## As Mencionadas
+- Tamar, Raabe, Rute, Bate-Seba, Raquel
+- As irmãs de Jesus, Isabel, Ana, irmã de Maria, mulher de Clopas, Maria Madalena, mulheres presentes no cenáculo
 
 ## Memórias
 
@@ -29,11 +31,27 @@ permalink: /as-primas-gestantes/
 - Concebeu do Espírito Santo sendo virgem quando estava desposada com José
 - José pensou em deixá-la secretamente para não infamá-la, mas um anjo o orienta em sonho, explicando que o que estava gerado em Maria era do Espírito Santo; o anjo diz que ela daria à luz um filho e lhe chamariam Jesus, porque ele salvaria o seu povo dos seus pecados
 - José a recebeu por mulher mas não a conheceu até Jesus nascer
-- Os magos do Oriente a encontram junto com o bebê
+- Vai com José a Belém para o alistamento; deu à luz lá, envolveu o bebê em panos e o colocou em uma manjedoura, pois não encontraram lugar em uma estalagem
+- Os pastores de Belém a encontraram junto com José e o bebê e lhe anuciaram a profecia que tinham ouvido acerca de Jesus
+- Ela guardava tudo em seu coração
+- Vai a Jerusalém apresentar o menino no templo e fazer a oferta segundo a lei da época
+- Conversou com Simeão no templo e se maravihou acerca do que ele falou sobre Jesus
+- Simeão a abençoou e profetizou sobre Jesus e que uma espada atravessaria sua (de Maria?) alma
+- Encontrou Ana no templo
+- Os magos do Oriente a encontraram junto com o bebê
 - Cumprindo a orientação dada pelo anjo a José, foge com José e o bebê para o Egito e ficam lá até a morte de Herodes, para evitar a matança dos meninos
 - Cumprindo novamente a orientação dada pelo anjo a José, volta com José e o bebê para a terra de Israel e passam a habitar em Nazaré
+- Ia todos os anos para Festa da Páscoa em Jerusalém
+- Quando Jesus tinha 12 anos, se perderam dele no caminho de volta de Jerusalém, voltaram até lá e o encontraram após três dias no templo
+- Maravihou-se de ver Jesus entre os doutores e perguntou por que ele havia feito aquilo, pois ela e José estavam preocupados
+- O menino Jesus lhe era obediente
+- Participou das bodas em Caná da Galileia; informou a Jesus que o vinho acabara; pediu que os empregados fizessem tudo que Jesus mandasse
+- Foi a Cafarnaum com Jesus
 - Junto com os demais irmãos de Jesus, tenta falar com ele enquanto ele falava à multidão
 - É mencionada, junto com José e seus demais filhos e filhas, quando questionaram as obras de Jesus em Nazaré
+- Ficou junto a Jesus, na cruz, acompanhada de outras mulheres
+- Jesus lhe d o discípulo a quem amava como filho e ele a recebe em sua casa
+- Esteve reunida no cenáculo com os demais seguidores e seguidoras de Jesus após sua ascensão, perseverando em oração e súplicas
 
 ### [Isabel](../isabel)
 - 
