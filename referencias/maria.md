@@ -8,6 +8,7 @@ permalink: /maria/
 
 |    |     |
 |:---|:---|
+| Isaías 7:14 | Profecia de que uma virgem daria à luz um filho, o Emanuel. | 
 | Mateus 1 | Mencionada na genealogia de Jesus; está desposada; concebe do Espírito Santo; um anjo manda que seu noive não a deixe; tem um filho.  | 
 | Mateus 2 | Foge para o Egito; volta para Israel; habita em Nazaré. | 
 | Mateus 12:46-50 | Tenta falar com Jesus enquanto ele ensinava. | 
