@@ -12,7 +12,10 @@ permalink: /as-amigas-e-discipulas-de-Jesus/
 ## Reflexões
 -
 
-## As Mencionadas
+## Outras Mencionadas
+
+- Irmãs de Jesus (Mateus 13:56; Marcos 6:3)
+- Maria, esposa de Clopas e a tia de Jesus (seriam a mesma mulher?) (João 19:25)
 
 ## Memórias
 
@@ -30,7 +33,7 @@ permalink: /as-amigas-e-discipulas-de-Jesus/
 - Ficou espantada ao ver que a pedra fora removida, perplexa, sem saber o que fazer
 - Foi apressadamente comunicar a dois discípulos que o corpo de Jesus sumira e que não sabia onde o haviam posto
 - Ficou sentada à entrada do sepulcro, chorando, e curvou-se para olhar para dentro
-- [Um anjo, um jovem, dois homens]? se dirigiu a ela e à outra Maria e disse para não terem medo, pois sabia que elas buscavam a Jesus; informou-lhes que Ele já ressuscitara, convidou-as a ver o local onde Ele havia estado e orientou-as a ir imediatamente anunciar aos discípulos (e a Pedro) que Jesus ressuscitara e que o veriam na Galileia
+- [Um anjo, um jovem, dois homens]? se dirigiu a ela e às outras mulheres e disse para não terem medo, pois sabia que elas buscavam a Jesus; informou-lhes que Ele já ressuscitara, convidou-as a ver o local onde Ele havia estado e orientou-as a ir imediatamente anunciar aos discípulos (e a Pedro) que Jesus ressuscitara e que o veriam na Galileia
 - Baixou o rosto para o chão ao ouvir e se lembrou das palavras de Jesus
 - Saiu do sepulcro com temor, assombro e alegria e correu para levar a notícia aos discípulos
 - Nada disse a ninguém (?), porque temia
@@ -92,23 +95,42 @@ Outra versão
 
 
 ### [Joana](../joana)
+- Era esposa de Cuza, procurador de Herodes
+- Foi curada de espíritos malignos e enfermidades
+- Acompanhava Jesus de cidade em cidade
+- Ajudou a sustentar Jesus com seus bens
+- Foi de madrugada ao sepulcro, junto com Maria Madalena, a outra Maria e outras mulheres, levando especiarias que havia preparado
+- Ao entrar, não achou o corpo de Jesus
+- Ficou perplexa
+- Abaixou a cabeça, atemorizada, quando dois homens apareceram
+- Os homens lhe informaram que Jesus havia ressuscitado
+- Lembrou das palavras de Jesus
+- Contou aos discípulos o que ocorrera, mas não acreditaram nela, pois suas palavras lhes pareciam um desvario
+- Os discíulos no caminho de Emaús mencionam que as mulheres lhe deram um susto ao contar sua visão
+
 
 
 ### [Susana](../susana)
+- Foi curada de espíritos malignos e enfermidades 
+- Acompanhava Jesus de cidade em cidade
+- Ajudou a sustentar Jesus com seus bens
+
 
 
 ### [Salomé](../salome)
-
+- Seguiu Jesus desde a Galileia para o seguir e o servir 
+- Esteve presente na crucificação de Jesus, olhando de longe, junto com outras mulheres
+- Comprou aromas para ungir o corpo de Jesus
+- No fim do sábado, ao amanhecer, foi com Maria Madalena e com a outra Maria ver o sepulcro
+- Ficou se indagando sobre quem lhes removeria a pedra da porta do sepulcro
+- Viu que a pedra já estava removida e que um jovem estava assentado no sepulcro
+- Ficou espantada
+- O jovem se dirigiu a ela e às outras mulheres e disse para não terem medo, pois sabia que elas buscavam a Jesus; informou-lhes que Ele já ressuscitara, convidou-as a ver o local onde Ele havia estado e orientou-as a ir imediatamente anunciar aos discípulos e a Pedro que Jesus ressuscitara e que o veriam na Galileia
+- Saiu apressadamente, fugindo do sepulcro, com temos e assombro
+- Nada disse a ninguém, porque temia
 
 ### [As Mulheres que Financiavam Jesus](../mulheres-que-financiavam-Jesus)
+- Ajudaram a sustentar Jesus com seus bens
 
 
 ### [A Outra Maria](../outra-maria)
-
-
-### Outras Mulheres
-
-|   |     |
-|:---|:---|
-| Mateus 13:56; Marcos 6:3 | Irmãs de Jesus. |
-| João 19:25  | Maria, esposa de Clopas; tia de Jesus. |
