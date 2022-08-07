@@ -52,8 +52,43 @@ Outra versão
 - Ela foi e anunciou aos discípulos que vira Jesus e o que Ele lhe dissera
 
 ### [Maria de Betânia](../maria-de-betania)
+- Vivia em uma aldeia chamada Betânia
+- Era irmã de Marta e de Lázaro
+- Assentou-se aos pés de Jesus na casa de Marta e ouvia sua palavra
+- Jesus disse que ela escolheu a boa parte a qual não lhe seria tirada
+- Ungiu Jesus com unguento e enxugou seus pés com seus cabelos
+- Quando Lázaro ficou enfermo, mandou informar Jesus
+- Jesus a amava
+- Foi consolada por muitos judeus quando seu irmão morreu
+- Ficou asssentada em casa enquanto Marta foi encontrar Jesus
+- Quando Marta lhe informou que Jesus a estava chamando, correu para encontrá-lo
+- Lançou-se a seus pés dizendo que, se Ele estivesse lá, seu irmão não teria morrido
+- Jesus a viu chorar
+- Enquanto Jesus estava à mesa da ceia, tomou uma libra de nardo puro, ungiu Seus pés e os enxugou com seus cabelos
+- Judas a criticou por não ter vendido o unguento e dado o dinheiro aos pobres
+- Jesus defendeu Maria dizendo para a deixarem pois guardara aquilo para o dia da sua sepultura
+
+
 
 ### [Marta](../marta)
+- Vivia em uma aldeia chamada Betânia
+- Recebeu Jesus em sua casa
+- Era irmã de Maria de Betânia e de Lázaro
+- Estava distraída em muitos serviços
+- Perguntou se Jesus não se importava com ela estar servindo sozinha e pediu que a instruísse a ajudá-la
+- Jesus disse que ela estava ansiosa e afadigada com muitas coisas, mas só uma era necessária
+- Quando Lázaro ficou enfermo, mandou informar Jesus
+- Jesus a amava
+- Foi consolada por muitos judeus quando seu irmão morreu
+- Quando ouviu que Jesus estava chegando, foi ao seu encontro
+- Disse a Jesus que, se ele estivesse lá, seu irmão não teria morrido, mas que sabia que tudo que Ele pedisse a Deus seria concedido
+- Jesus lhe disse que seu irmão haveria de ressuscitar, e ela respondeu que sabia que ele ressuscitaria na ressureição do último dia
+- Jesus perguntou se ela cria que ele é a ressurreição e a vida e que quem cresse nele, ainda que morto, viveria, e se vivo, nunca morreria
+- Ela respondeu que cria que ele era o Cristo, Filho de Deus, que havia de vir ao mundo
+- Chamou sua irmã em segredo e informou que Jesus a estava chamando
+- Quando Jesus mandou que removessem a pedra do sepulcro, ela disse que ele já cheirava mal pois morrera há quatro dias
+- Jesus repetiu que, se ela cresse, veria a glória de Deus
+- Servia à mesa da ceia que fizeram para Jesus
 
 
 ### [Joana](../joana)
