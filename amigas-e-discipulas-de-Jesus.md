@@ -16,25 +16,28 @@ permalink: /as-amigas-e-discipulas-de-Jesus/
 
 - Irmãs de Jesus (Mateus 13:56; Marcos 6:3)
 - Maria, esposa de Clopas e a tia de Jesus (seriam a mesma mulher?) (João 19:25)
+- A mãe dos filhos de Zebedeu (Mateus 25:55)
 
 ## Memórias
 
+Os itens nao estão, necessariamente, em ordem cronológica.
+
 ### [Maria Madalena](../maria-madalena)
 - Jesus expulsou sete demônios dela
-- Seguiu Jesus desde a Galileia para o seguir e o servir 
+- Seguiu e serviu Jesus desde a Galileia
 - Acompanhava Jesus de cidade em cidade
 - Ajudou a sustentar Jesus com seus bens
 - Esteve presente na crucificação de Jesus, olhando de longe, junto com outras mulheres
 - Observou onde o corpo de Jesus foi sepultado
 - Ficou assentada, junto com a outra Maria, defronte do sepulcro de Jesus
 - No fim do sábado, ao amanhecer, foi com a outra Maria (e com Salomé) ver o sepulcro
-- Comprou e preparou aromas para ungir o corpo de Jesus
+- Comprou aromas / preparou especiarias para ungir o corpo de Jesus
 - Ficou se indagando sobre quem lhes removeria a pedra da porta do sepulcro
 - Ficou espantada ao ver que a pedra fora removida, perplexa, sem saber o que fazer
 - Foi apressadamente comunicar a dois discípulos que o corpo de Jesus sumira e que não sabia onde o haviam posto
 - Ficou sentada à entrada do sepulcro, chorando, e curvou-se para olhar para dentro
 - [Um anjo, um jovem, dois homens]? se dirigiu a ela e às outras mulheres e disse para não terem medo, pois sabia que elas buscavam a Jesus; informou-lhes que Ele já ressuscitara, convidou-as a ver o local onde Ele havia estado e orientou-as a ir imediatamente anunciar aos discípulos (e a Pedro) que Jesus ressuscitara e que o veriam na Galileia
-- Baixou o rosto para o chão ao ouvir e se lembrou das palavras de Jesus
+- Baixou o rosto para o chão e se lembrou das palavras de Jesus
 - Saiu do sepulcro com temor, assombro e alegria e correu para levar a notícia aos discípulos
 - Nada disse a ninguém (?), porque temia
 - Jesus apareceu primeiramente para ela no caminho e a saudou 
@@ -118,7 +121,7 @@ Outra versão
 
 
 ### [Salomé](../salome)
-- Seguiu Jesus desde a Galileia para o seguir e o servir 
+- Seguiu e serviu Jesus desde a Galileia 
 - Esteve presente na crucificação de Jesus, olhando de longe, junto com outras mulheres
 - Comprou aromas para ungir o corpo de Jesus
 - No fim do sábado, ao amanhecer, foi com Maria Madalena e com a outra Maria ver o sepulcro
@@ -134,3 +137,21 @@ Outra versão
 
 
 ### [A Outra Maria](../outra-maria)
+- Era mãe de Tiago e de José
+- Seguiu e serviu Jesus desde a Galileia
+- Esteve presente na crucificação de Jesus, olhando de longe, junto com outras mulheres
+- Observou onde o corpo de Jesus foi sepultado
+- Ficou assentada, junto com Maria Madalena, defronte do sepulcro de Jesus
+- Comprou aromas / preparou especiarias para ungir o corpo de Jesus
+- No fim do sábado, ao amanhecer, foi com a Maria Madalena (e Salomé) ver o sepulcro
+- Ficou se indagando sobre quem lhes removeria a pedra da porta do sepulcro
+- Ficou perplexa quando não achou o corpo de Jesus
+- [Um anjo, um jovem, dois homens]? se dirigiu a ela e às outras mulheres e disse para não terem medo, pois sabia que elas buscavam a Jesus; informou-lhes que Ele já ressuscitara, convidou-as a ver o local onde Ele havia estado e orientou-as a ir imediatamente anunciar aos discípulos (e a Pedro) que Jesus ressuscitara e que o veriam na Galileia
+- Baixou o rosto para o chão e se lembrou das palavras de Jesus
+- Saiu do sepulcro com temor, assombro e alegria e correu para levar a notícia aos discípulos
+- Nada disse a ninguém (?), porque temia
+- Jesus apareceu primeiramente para ela (com Maria Madalena) no caminho e a saudou 
+- Abraçou os pés de Jesus e o adorou
+- Jesus a instruiu a não temer e a ir anunciar aos discípulos que o veriam na Galileia
+- Anunciou a novidade aos que tinham estado com Jesus, mas não acreditaram nela, pois suas palavras pareciam desvario
+- Os discíulos no caminho de Emaús mencionam que as mulheres lhe deram um susto ao contar sua visão
