@@ -44,7 +44,7 @@ Os itens nao estão, necessariamente, em ordem cronológica.
 - Abraçou os pés de Jesus e o adorou
 - Jesus a instruiu a não temer e a ir anunciar aos discípulos que o veriam na Galileia
 - Anunciou a novidade aos que tinham estado com Jesus, mas não acreditaram nela, pois suas palavras pareciam loucura
-- Os discíulos no caminho de Emaús mencionam que as mulheres lhe deram um susto ao contar sua visão
+- Os discíulos no caminho de Emaús mencionam que as mulheres lhes deram um susto ao contar sua visão
 
 Outra versão
 - Dois homens lhe apareceram no sepulcro e perguntaram por que ela estava chorando
@@ -81,7 +81,7 @@ Outra versão
 - Recebeu Jesus em sua casa
 - Era irmã de Maria de Betânia e de Lázaro
 - Estava distraída em muitos serviços
-- Perguntou se Jesus não se importava com ela estar servindo sozinha e pediu que a instruísse a ajudá-la
+- Perguntou se Jesus não se importava com ela estar servindo sozinha e pediu que instruísse Maria a ajudá-la
 - Jesus disse que ela estava ansiosa e afadigada com muitas coisas, mas só uma era necessária
 - Quando Lázaro ficou enfermo, mandou informar Jesus
 - Jesus a amava
@@ -109,7 +109,7 @@ Outra versão
 - Os homens lhe informaram que Jesus havia ressuscitado
 - Lembrou das palavras de Jesus
 - Contou aos discípulos o que ocorrera, mas não acreditaram nela, pois suas palavras lhes pareciam um desvario
-- Os discíulos no caminho de Emaús mencionam que as mulheres lhe deram um susto ao contar sua visão
+- Os discíulos no caminho de Emaús mencionam que as mulheres lhes deram um susto ao contar sua visão
 
 
 
@@ -154,4 +154,4 @@ Outra versão
 - Abraçou os pés de Jesus e o adorou
 - Jesus a instruiu a não temer e a ir anunciar aos discípulos que o veriam na Galileia
 - Anunciou a novidade aos que tinham estado com Jesus, mas não acreditaram nela, pois suas palavras pareciam desvario
-- Os discíulos no caminho de Emaús mencionam que as mulheres lhe deram um susto ao contar sua visão
+- Os discíulos no caminho de Emaús mencionam que as mulheres lhes deram um susto ao contar sua visão
