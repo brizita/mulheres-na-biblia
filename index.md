@@ -53,7 +53,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 2  | [As Servas das Matriarcas](./as-servas-das-matriarcas) | [Agar](./agar), [Débora](./debora), [Bila](./bila), [Zilpa](./zilpa) |
 | 3  | [As Primas Gestantes](./as-primas-gestantes) | [Maria](./maria), [Isabel](./isabel) |
 | 4  | [As Amigas e Discípulas de Jesus](./as-amigas-e-discipulas-de-Jesus) | [Maria Madalena](./maria-madalena), [Marta](./marta) e [Maria](./maria-de-betania) de Betânia, [Salomé](./salome), [Susana](./susana), [Joana](./joana), [As que financiavam Jesus](./mulheres-que-financiavam-Jesus), [A Outra Maria](./outra-maria)  |
-| 5  | As Compreendidas por Jesus | A que seria apedrejada, A samaritana, A do fluxo de sangue, As que ungiram Seus pés, A viúva pobre |
+| 5  | As Compreendidas por Jesus | A que seria apedrejada, A samaritana, A do fluxo de sangue, As que ungiram Seus pés, A viúva pobre, A cananeia |
 | 6  | As Personagens de Parábolas | A da dracma perdida, A do fermento, A que insistiu com o juiz, As dez virgens, A rainha do sul |
 | 7  | As Destacadas | Junia, Febe, Priscila, A senhora eleita, Tabita |  
 | 8  | As Vítimas | [A que sofreu estupro coletivo](./violentada), [A jovem sacrificada](./sacrificada)
@@ -76,7 +76,9 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 25 | As Tirânicas | Jezabel, Atalia |
 | 26 | As Ofuscadas | Penina, Orfa, Azenate, Zípora, Eliseba, Mical, Filha de faraó, Esposa de Jó |
 | 27 | As Meninas | Serva que se lembrou de Eliseu, Rode |
-| 28 | As Anônimas | Diversas, referidas no coletivo |
+| 28 | A Sabedoria | A Sabedoria e as mulheres em Provérbios |
+| 29 | As Sábias | A sábia de Tecoa, A sábia de Abel-Bete-Maaca |
+| 30 | As Anônimas | Diversas, referidas no coletivo |
 
 
 # Referências
