@@ -61,13 +61,13 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 10  | As Juízas e Guerreiras | Débora, Jael, A que feriu Abimeleque |
 | 11 | As Que Mudaram Leis e Costumes | Macla, Noa, Hogla, Milca e Tirza, Vasti, A que passou seu nome ao seu marido, Jemima, Quezia e Quéren-Hapuque |
 | 12 | As Dignas de Nota | Trifena e Trifosa, Pérside, Eunice, Loide, Julia, Drusila, Damaris, Claudia, Berenice, Cloe, Áfia, Euvódia, Síntique |
-| 13 | As Violadas | Tamar, Diná |
+| 13 | As Violadas | Tamar, Diná, Concubinas de Davi |
 | 14 | As Hospitaleiras | A sunamita, Raabe, Lídia |
 | 15 | As Sagazes | Noemi, Tamar (que exigiu o cumprimento do levirato), Acsa |
 | 16 | As Influenciadoras | Abigail, A que tentou dissuadir Pilatos, A rainha que se lembrou de Daniel, Herodias e sua filha |
 | 17 | As Profetizas | Hulda, Esposa de Isaías, Miriam, Ana (profetiza que viu o menino Jesus), Filhas de Filipe |
 | 18 | As Vítimas de Erros Alheios | Bate-Seba, Esposa de Finéias, Filisteia que foi queimada |
-| 19 | As Que Consagraram Seus Filhos | Ana, Mãe de Sansão |
+| 19 | As Maternais | Ana, Mãe de Sansão, Rispa |
 | 20 | As Trabalhadoras | Rute, Seerá, Construtoras do muro de Jerusalém | 
 | 21 | As Incautas | Eva, Safira |
 | 22 | As Proeminentes | Ester, Rainha de Sabá, Rainha de Candace |
@@ -76,8 +76,8 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 25 | As Tirânicas | Jezabel, Atalia |
 | 26 | As Ofuscadas | Penina, Orfa, Azenate, Zípora, Eliseba, Mical, Filha de faraó, Esposa de Jó |
 | 27 | As Meninas | Serva que se lembrou de Eliseu, Rode |
-| 28 | A Sabedoria | A Sabedoria e as mulheres em Provérbios |
-| 29 | As Sábias | A sábia de Tecoa, A sábia de Abel-Bete-Maaca |
+| 28 | As Virtuosas | A Sabedoria, A mulher virtuosa e a representação da mulher em Provérbios |
+| 29 | As Sábias | A astuta de Tecoa, A sábia de Abel-Bete-Maaca |
 | 30 | As Anônimas | Diversas, referidas no coletivo |
 
 
