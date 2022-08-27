@@ -61,7 +61,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 10  | As Juízas e Guerreiras | Débora, Jael, A que feriu Abimeleque |
 | 11 | As Que Mudaram Leis e Costumes | Macla, Noa, Hogla, Milca e Tirza, Vasti, A que passou seu nome ao seu marido, Jemima, Quezia e Quéren-Hapuque |
 | 12 | As Dignas de Nota | Trifena e Trifosa, Pérside, Eunice, Loide, Julia, Drusila, Damaris, Claudia, Berenice, Cloe, Áfia, Euvódia, Síntique |
-| 13 | As Violadas | Tamar, Diná, Concubinas de Davi |
+| 13 | As Violadas | Tamar, Diná, Concubinas que guardaram a casa |
 | 14 | As Hospitaleiras | A sunamita, Raabe, Lídia |
 | 15 | As Sagazes | Noemi, Tamar (que exigiu o cumprimento do levirato), Acsa |
 | 16 | As Influenciadoras | Abigail, A que tentou dissuadir Pilatos, A rainha que se lembrou de Daniel, Herodias e sua filha |
@@ -80,6 +80,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 29 | As Sábias | A astuta de Tecoa, A sábia de Abel-Bete-Maaca |
 | 30 | As Anônimas | Diversas, referidas no coletivo |
 
+A acrescentar: as mães que disputaram um bebê, a que virou estátua de sal e suas filhas, a pitonisa, a que lamenta por seu filho na guerra, Cozbi, Abisague, sogra de Pedro, filha de Jairo, mulher paralítica.
 
 # Referências
 
