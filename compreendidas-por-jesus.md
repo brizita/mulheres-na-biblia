@@ -13,7 +13,7 @@ permalink: /as-compreendidas-por-jesus/
 -
 
 ## As Mencionadas
-- 
+- Filha da mulher cananeia
 
 ## Memórias
 
@@ -47,18 +47,44 @@ permalink: /as-compreendidas-por-jesus/
 
 ### [A curada do fluxo de sangue](../curada-fluxo-de-sangue)
 - Padeceu por doze anos de um fluxo de sangue
+- Padeceu muito com muitos médicos, gastando suas economias, sem melhora
+- Ouviu falar de Jesus
 - Chegou por trás de Jesus e tocou a orla de sua veste
 - Pensou consigo que, se somente tocasse sua veste, ficaria sã
-- Jesus se virou, a viu a chamou de filha
-- Jesus lhe disse que tivesse ânimo pois sua fé a salvara
-- Ela foi curada imediatamente
+- Ela foi curada imediatamente: seu fluxo cessou e ela sentiu estar curada
+- Jesus sentiu que dele saíra virtude; se virou, e perguntou quem tocara suas vestes
+- Ela temeu e tremeu
+- Ela se aproximou de Jesus, se prostrou diante dele e disse toda a verdade perante o povo
+- Jesus a viu a chamou de filha
+- Jesus lhe disse que tivesse (bom) ânimo e que sua fé a salvara; disse que fosse em paz e fosse curada de seu mal
+
   
-### [As que ungiram Seus pés](../ungiram-jesus)
-- 
+### [As que ungiram os pés de Jesus](../ungiram-jesus)
+(dúvida se houve mais de um episódio, com outra mulher além de Maria de Betânia)
+- Estava em Betânia e foi à casa de Simão, onde Jesus estava assentado à mesa
+- Aproximou-se de Jesus com um vaso de alabastro, com unguento de grande valor, e derramou sobre sua cabeça
+- Seus discípulos a criticaram, alegando que com o valor do ungueto poderia ter ajudado os pobres
+- Jesus intercedeu por ela, perguntando por que a afligiam ao ter praticado uma boa ação para com ele
+- Jesus disse que sua ação o preparara para seu sepultamento
+- Jesus afirmou que, onde quer que o Evangelho fosse pregado, o que ela fez seria referido para sua memória
   
-### [A viúva pobre](../viuva-pobre)
-- 
+### [A viúva pobre](../viuva-pobre-oferta)
+- Era pobre e viúva
+- Foi à arca do tesouro e depositou duas pequenas moedas, que valiam cinco réis
+- Jesus a viu e a usou de exemplo aos seus discípulos, explicando que ela depositara mais do que os outros, pois dera tudo o que tinha, enquanto os demais depositaram o que lhes sobejava
   
 ### [A cananeia](../cananeia)
-- 
- 
+- Era cananeia / grega, siro-fenícia de nação
+- Sua filha tinha um espírito imundo
+- Esteve nos territórios de Tiro e de Sidom
+- Ouviu falar de Jesus, foi até a casa onde ele estava e se lançou aos seus pés
+- Rogou-lhe que tivesse misericórdia e expulsasse o demônio de sua filha
+- Jesus, a princípio, não lhe respondeu
+- Os discípulos queriam que Jesus a despedisse, pois vinha gritando atrás deles
+- Ela adorou a Jesus e pediu socorro
+- Jesus disse que deixasse primeiro saciar os filhos, porque não convinha tomar o pão dos filhos e lançá-lo aos cachorrinhos
+- Concordou, mas argumentou que também os cachorrinhos comem, debaixo da mesa, as migalhas dos filhos / dos senhores
+- Jesus enalteceu sua fé e ordenou que lhe fosse feito como ela desejava
+- Nesta hora sua filha ficou sã
+- Jesus disse que, por essa palavra, fosse, o demônio já saíra de sua filha
+- Foi para casa e achou a filha deitada na cama, sem o demônio
