@@ -75,7 +75,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 24 | As Sensuais | Dalila, Gomer, A que tentou seduzir José |
 | 25 | As Tirânicas | Jezabel, Atalia |
 | 26 | As Ofuscadas | Penina, Orfa, Azenate, Zípora, Eliseba, Mical, Filha de faraó, Esposa de Jó |
-| 27 | As Meninas | Serva que se lembrou de Eliseu, Rode |
+| 27 | As Meninas | Serva que se lembrou de Eliseu, Rode, A filha de Jairo |
 | 28 | As Virtuosas | A Sabedoria, A mulher virtuosa e a representação da mulher em Provérbios |
 | 29 | As Sábias | A astuta de Tecoa, A sábia de Abel-Bete-Maaca |
 | 30 | As Anônimas | Diversas, referidas no coletivo |
