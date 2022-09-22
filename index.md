@@ -53,7 +53,7 @@ Há muitas formas de se organizar uma agenda de leitura, bem como diversas forma
 | 2  | [As Servas das Matriarcas](./as-servas-das-matriarcas) | [Agar](./agar), [Débora](./debora), [Bila](./bila), [Zilpa](./zilpa) |
 | 3  | [As Primas Gestantes](./as-primas-gestantes) | [Maria](./maria), [Isabel](./isabel) |
 | 4  | [As Amigas e Discípulas de Jesus](./as-amigas-e-discipulas-de-Jesus) | [Maria Madalena](./maria-madalena), [Marta](./marta) e [Maria](./maria-de-betania) de Betânia, [Salomé](./salome), [Susana](./susana), [Joana](./joana), [As que financiavam Jesus](./mulheres-que-financiavam-Jesus), [A Outra Maria](./outra-maria)  |
-| 5  | As Compreendidas por Jesus | [A que seria apedrejada](./quase-apedrejada), [A samaritana](./samaritana), [A curada do fluxo de sangue](./curada-fluxo-de-sangue), [As que ungiram Seus pés](./ungiram-jesus), [A viúva pobre](./viuva-oferta), [A cananeia](./cananeia) |
+| 5  | [As Compreendidas por Jesus](./compreendidas-por-jesus.md) | [A que seria apedrejada](./quase-apedrejada), [A samaritana](./samaritana), [A curada do fluxo de sangue](./curada-fluxo-de-sangue), [As que ungiram Seus pés](./ungiram-jesus), [A viúva pobre](./viuva-oferta), [A cananeia](./cananeia) |
 | 6  | As Personagens de Parábolas | A da dracma perdida, A do fermento, A viúva persistente, As dez virgens, A rainha do sul, A que preparou a massa |
 | 7  | As Destacadas | Junia, Febe, Priscila, A senhora eleita, Tabita |  
 | 8  | As Vítimas | [A que sofreu estupro coletivo](./violentada), [A jovem sacrificada](./sacrificada)
