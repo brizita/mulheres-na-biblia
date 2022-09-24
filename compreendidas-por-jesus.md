@@ -62,11 +62,23 @@ permalink: /as-compreendidas-por-jesus/
 ### [As que ungiram os pés de Jesus](../ungiram-jesus)
 (dúvida se houve mais de um episódio, com outra mulher além de Maria de Betânia)
 - Estava em Betânia e foi à casa de Simão, onde Jesus estava assentado à mesa
-- Aproximou-se de Jesus com um vaso de alabastro, com unguento de grande valor, e derramou sobre sua cabeça
-- Seus discípulos a criticaram, alegando que com o valor do ungueto poderia ter ajudado os pobres
-- Jesus intercedeu por ela, perguntando por que a afligiam ao ter praticado uma boa ação para com ele
-- Jesus disse que sua ação o preparara para seu sepultamento
-- Jesus afirmou que, onde quer que o Evangelho fosse pregado, o que ela fez seria referido para sua memória
+- Aproximou-se de Jesus com um vaso de alabastro, com unguento de nardo puro, grande valor
+- Quebrou o vaso e derramou sobre sua cabeça
+- Seus discípulos a criticaram e bramaram contra ela, alegando que com o valor do ungueto poderia ter ajudado os pobres
+- Jesus intercedeu por ela, perguntando por que a afligiam/molestavam ao ter praticado uma boa ação para com ele
+- Jesus disse que ela fizera o que podia por ele, e antecipando-se em ungir seu corpo, preparando-o para seu sepultamento
+- Jesus afirmou que, onde quer que o Evangelho fosse pregado, o que ela fez seria referido/contado para sua memória
+
+(possível segundo relato)
+- Era pecadora, da cidade onde Jesus estava
+- Soube que Jesus estava à mesa na casa de um fariseu
+- Levou um vaso de alabastro com unguento
+- Estava por detrás, aos pés de Jesus, e chorou
+- Regou os pés de Jesus com lágrimas, enxugou-os com os cabelos, beijou seus pés e os ungiu com unguento
+- O fariseu pensa consigo que ela é pecadora
+- Jesus se voltou para ela, e faz uma comparação das boas obras dela naquele momento com a omissão do fariseu
+- Jesus afirmou que os muitos pecados dela lhe seriam perdoados pois muito amara
+- Jesus se dirigiu a ela anunciando que seus pecados lhe eram perdoados, que sua fé a salvara e que fosse em paz
   
 ### [A viúva pobre](../viuva-pobre-oferta)
 - Era pobre e viúva
